@@ -13,13 +13,19 @@ namespace Calculos
     internal class Aritmetica
     
     {
-        
+        ///<summary>
+        ///Operação somar.
+        /// </summary>
+        /// <returns> retorna a soma de dois números</returns>
         public int Somar(int x, int y)
         {
             return x + y;
         }
        
-    
+        ///<summary>
+        ///Operação subtrair.
+        /// </summary>
+        /// <returns> retorna o resultado da subtração de dois números</returns>
         public int Subtrair(int x, int y)
         {
             return x - y;
