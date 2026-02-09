@@ -31,7 +31,14 @@ internal static class Aritmetica
         {
             return x - y;
         }
-
+        ///<summary>
+        ///Operação Multiplicar.
+        /// </summary>
+        /// <returns> retorna o resultado da multiplicação de dois números</returns>
+         public static int Multiplicar(int x, int y)
+         {
+            return x * y;
+        }
         
     }
 }
