@@ -18,8 +18,8 @@ Neste momento esta aplicação implementa as seguintes operações:
     - fahrenheit :arrow-right:celsius
 
 - Conversao de distância 
-    - metros :arrow-right: milhas
-    - milhas :arrow-right:metros
+    - metros :arrow_right: milhas
+    - milhas :arrow_right:metros
 
 ## Tecnologias utilizadas neste projeto
 
