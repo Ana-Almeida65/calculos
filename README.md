@@ -14,8 +14,8 @@ Neste momento esta aplicação implementa as seguintes operações:
 - Subtração
 - Multiplicação
 - Conversão de temperaturas
-    - celsius :arrow-right: fahrenheit
-    - fahrenheit :arrow-right:celsius
+    - celsius :arrow_right: fahrenheit
+    - fahrenheit :arrow_right:celsius
 
 - Conversao de distância 
     - metros :arrow_right: milhas
